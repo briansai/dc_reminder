@@ -1,0 +1,23 @@
+{
+  "name": "dc_reminder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briansai/dc_reminder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briansai/dc_reminder/issues"
+  },
+  "homepage": "https://github.com/briansai/dc_reminder#readme",
+  "dependencies": {
+    "mailchimp-api-v3": "^1.15.0"
+  }
+}
